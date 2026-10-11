@@ -1,0 +1,9 @@
+# Apple TV F1 routing candidates
+# Observed in TV.app on 2026-10-11. Exact geo-check endpoint unconfirmed.
+# uts-api/upp are shared Apple TV endpoints; this also affects other TV content.
+# Select a US exit in the importing configuration. No policy column in this file.
+DOMAIN,linear.tv.apple.com
+DOMAIN,linear-ak-p-har-prod-a.tv.apple.com
+DOMAIN,linear-ap-p-har-prod-a.tv.apple.com
+DOMAIN,uts-api.itunes.apple.com
+DOMAIN,upp.itunes.apple.com
